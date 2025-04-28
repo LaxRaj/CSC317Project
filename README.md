@@ -12,6 +12,6 @@ and money.
 | ID | Name | Github Username |
 |----|------|-----------------|
 | 1. | Lakshyaraj Bhati | LaxRaj |
-| 2. | Adrian | ianaqui |
+| 2. | Adrian Aquino | ianaqui |
 | 3. | Emma |  |
 | 4. | Andres |  |
