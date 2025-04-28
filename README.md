@@ -9,7 +9,9 @@ and money.
 ---
 ## Group K *Members*
 
-1. Lakshyaraj Bhati | LaxRaj
-2. Adrian | ianaqui
-3. Emma
-4. Andres
+| ID | Name | Github Username |
+|----|------|-----------------|
+| 1. | Lakshyaraj Bhati | LaxRaj |
+| 2. | Adrian | ianaqui |
+| 3. | Emma |  |
+| 4. | Andres |  |
