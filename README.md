@@ -1,2 +1,15 @@
 # CSC317Project
-Grocery List App
+
+# Recipe Builder application
+
+if you provide us a budget and then we could give a list of recipe that you could make,
+once the user selects the recipes and then the application generates a grocery list that could save you time 
+and money. 
+
+---
+## Group K *Members*
+
+1. Lakshyaraj Bhati | LaxRaj
+2. Adrian | ianaqui
+3. Emma
+4. Andres
